@@ -7,3 +7,5 @@ const MySpace = () => {
         </div>
     )
 }
+
+export default MySpace
