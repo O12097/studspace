@@ -1,4 +1,5 @@
 {
     "git.autoRepositoryDetection": false,
-    "vscord.app.privacyMode.enable": true
+    "vscord.app.privacyMode.enable": false,
+    "vscord.behaviour.debug": true
 }
